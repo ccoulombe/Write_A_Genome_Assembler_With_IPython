@@ -655,7 +655,7 @@ print "The end of the 3'-path is", path_3p[-1]
 
 # <markdowncell>
 
-# Build a squence database
+# Build a sequence database
 # ------------------------
 # Since we get the paths that seems covering the whole genome, we can use the paths to construct draft contigs. In order to do that, we need to get the fragment sequences.
 
